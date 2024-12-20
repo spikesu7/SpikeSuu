@@ -1,0 +1,13 @@
+stock-tracker/
+├── package.json
+├── next.config.js
+├── tailwind.config.js
+├── postcss.config.js
+├── public/
+├── src/
+│   ├── app/
+│   │   ├── layout.tsx
+│   │   ├── page.tsx
+│   │   └── globals.css
+│   └── components/
+│       └── StockTracker.tsx 
